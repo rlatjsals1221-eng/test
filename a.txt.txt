@@ -1,3 +1,9 @@
 aaaa
 
+<<<<<<< HEAD
 z0z0z0z0z0
+=======
+
+smsmsmsmsmsmsmsm
+jwjwjwjwjwjwjwjw
+>>>>>>> 0820e8b05641c5c6a987e07fa828672c8bd911bb
